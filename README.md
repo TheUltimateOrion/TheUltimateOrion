@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 # Aaryan Banerjee
 
-Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029).  
-I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
+Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029). I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
 
-- Interested in: systems programming, compilers, algorithms, performance engineering, and developer tooling
-- Languages: C, C++, Python (plus Java for robotics work)
-- Currently: building and polishing portfolio projects, and expanding my low-level tooling work
+# Skills
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,py,java,js,ts,neovim,bash,linux,unity,vscode,androidstudio,windows,latex,linkedin,arduino,raspberrypi&perline=10" />
+</p>
 
 ---
 
-## Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="24" height="24"> Featured Projects
 
 ### OrionSort — Sorting Algorithm Visualizer (C++ / SDL3 / ImGui)
 A cross-platform sorting algorithm visualizer that animates multiple algorithms with flexible visual modes and optional audio feedback.
