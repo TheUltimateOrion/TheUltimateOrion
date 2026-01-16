@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is ...
 
 <!--
 **TheUltimateOrion/TheUltimateOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aaryan Banerjee
+
+Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029).  
+I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
+
+- Interested in: systems programming, compilers, algorithms, performance engineering, and developer tooling
+- Languages: C, C++, Python (plus Java for robotics work)
+- Currently: building and polishing portfolio projects, and expanding my low-level tooling work
+
+---
+
+## Featured Projects
+
+### OrionSort — Sorting Algorithm Visualizer (C++ / SDL3 / ImGui)
+A cross-platform sorting algorithm visualizer that animates multiple algorithms with flexible visual modes and optional audio feedback.
+
+**Highlights**
+- Multiple algorithms (Bubble, Quick, Merge, Radix LSD, and more)
+- Multiple visual styles (bars, dots, circles, spirals)
+- Adjustable array length and speed controls
+- CMake-based cross-platform builds
+- Debug window for tracking variables and internal metrics
+
+Repo: https://github.com/TheUltimateOrion/OrionSort
+
+---
+
+### BFC-Compiler — Brainfuck Compiler (C, single-file, no deps)
+A blazingly fast Brainfuck compiler written in C with a clean, clang-inspired CLI.  
+Designed to be minimal, portable, and fully self-contained.
+
+**Highlights**
+- Zero external dependencies (standard library only)
+- One-file implementation philosophy
+- Brainfuck-specific optimizations (instruction coalescing, peepholes, clear-loop recognition)
+- Intended pipeline: compile to optimized assembly, then assemble/link to an executable
+
+Repo: https://github.com/TheUltimateOrion/BFC-Compiler
+
+---
+
+## Robotics (FRC)
+In high school, I served as Programming Head for FIRST Robotics Competition Team 3560, leading coding work for the 2025 Reefscape season robot.
+
+- Worked on robot control code and mechanisms (motors, servos, power distribution, etc.)
+- Built experience in teamwork, iteration under deadlines, and applied engineering
+
+---
+
+## What I Care About
+- Performance and correctness first
+- Minimal dependencies and clean builds
+- Tooling that feels good to use
+- Projects that teach me something real (and ideally ship)
+
+If you want to collaborate on a project or discuss an idea, feel free to connect with me.
