@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Aaryan Banerjee
+# Aaryan
 
 Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029). I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
 
