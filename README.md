@@ -19,10 +19,76 @@ Here are some ideas to get you started:
 
 Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029). I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
 
-# Skills
-
+# Programming Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,py,java,js,ts,neovim,bash,md,linux,unity,vscode,androidstudio,windows,latex,linkedin,arduino,raspberrypi,apple&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,java,kotlin,js,ts,latex,dotnet,html,css,nodejs,powershell,r,regex,wasm,bash,md" />
+</p>
+
+# Core Development Environments
+## IDEs
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vim,neovim,visualstudio,vscode,vscodium,sublime,atom,eclipse,idea,pycharm,processing,androidstudio,replit" />
+</p>
+
+## VCS
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+## Terminal & Shell
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,npm,cmake,gradle,yarn,nix" />
+</p>
+
+## Operating Systems
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,arch,debian,ubuntu,kali,nix" />
+</p>
+
+# Embedded Systems Programming
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,rust,arduino,raspberrypi" />
+</p>
+
+# Frontend & UI/UX
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=electron,materialui,react,angular,nextjs,threejs,figma&perline=11" />
+</p>
+
+# Backend & Middleware
+## Database Management
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,elasticsearch" />
+</p>
+
+## Analytics
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=kafka,elasticsearch" />
+</p>
+
+## API Development
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,express,elasticsearch" />
+</p>
+
+# Cloud Providers, Containerization & Orchestration
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=firebase,docker,kubernetes,elasticsearch" />
+</p>
+
+# CI/CD & Devops
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=npm,cmake,gradle,yarn,nix,githubactions,jenkins" />
+</p>
+
+# Multimedia & Game Development
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ae,ps,figma" />
+</p>
+
+# Agile Tools & Collaboration
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=less" />
 </p>
 
 ---
