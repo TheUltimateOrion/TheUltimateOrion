@@ -93,7 +93,7 @@ Computer Science Co-op student at the University of Toronto Scarborough (Class o
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> Featured Projects
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> Featured Projects
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"> OrionSort — Sorting Algorithm Visualizer (C++ / SDL3 / ImGui)
 A cross-platform sorting algorithm visualizer that animates multiple algorithms with flexible visual modes and optional audio feedback.
