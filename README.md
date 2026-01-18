@@ -52,7 +52,7 @@ Computer Science Co-op student at the University of Toronto Scarborough (Class o
 
 # Frontend & UI/UX
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=electron,materialui,react,angular,nextjs,threejs,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,electron,materialui,react,angular,nextjs,threejs,figma&perline=11" />
 </p>
 
 # Backend & Middleware
@@ -83,7 +83,7 @@ Computer Science Co-op student at the University of Toronto Scarborough (Class o
 
 # Multimedia & Game Development
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ae,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,blender,ai,ae,ps,figma" />
 </p>
 
 # Agile Tools & Collaboration
