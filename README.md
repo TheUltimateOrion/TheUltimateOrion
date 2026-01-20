@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![TheUltimateorion's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUltimateOrion&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true) -->
+
 # Aaryan
 
 Computer Science Co-op student at the University of Toronto Scarborough (Class of 2029). I build software projects that are performance-focused, systems-leaning, and engineered with clean tooling and practical UX.
